@@ -8,7 +8,7 @@ Client wanted their current database being kept in excel to be updated to a SQL 
 - Software: pgAdmin4, PostgreSQL 14
 
 ## Results
-- The number of managers retiring small which will indicate the company won’t be losing much of its leadership structure during the transition.
+- The number of managers retiring is small which will indicate the company won’t be losing much of its leadership structure during the transition.
 - Conversely, the two largest retiring categories are Senior Engineer and Senior Staff. This indicates that the company will be losing a significant amount of experience and skills. 
 - Further, another category which is concerning is the Technique Leader which has 3603 retirees. This indicates employees who possess a large amount of technical knowledge. This, and the above point, strongly supports the need for the mentioned mentorship program. 
 
